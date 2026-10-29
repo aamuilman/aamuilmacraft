@@ -1,0 +1,9 @@
+build/
+.arduino15/
+.pio/
+.vscode/
+.DS_Store
+*.bin
+*.elf
+*.map
+*.hex
