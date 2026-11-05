@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 aamuilmacraft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+The fonts embedded in src/fonts/unbounded_black.h and src/fonts/jetbrains_mono.h
+are subsets of Unbounded Black, Copyright 2022 The Unbounded Project Authors,
+and JetBrains Mono ExtraBold, Copyright 2020 The JetBrains Mono Project Authors.
+Both are licensed under the SIL Open Font License 1.1 and are not covered by the
+MIT license above. The license texts ship in licenses/OFL-Unbounded.txt and
+licenses/OFL-JetBrainsMono.txt.
+
+src/stb_truetype.h keeps its own public domain or MIT terms, stated inside the
+file, and is not covered by the MIT license above.
+
+The STL models in enclosure/ are the author's own work and are not covered by
+the MIT license above.
+
+The firmware is intended for adults. It contains sarcasm, rude jokes and mild
+insults. It is not intended for children. The setup page requires the user to
+confirm they are 18 years old or older.
+
+This is an independent project. It is not made, endorsed, sponsored or supported
+by M5Stack. M5Stack and M5PaperColor are trademarks of their respective owners.
+
+Settings and Wi-Fi credentials are stored in NVS on the device. The firmware
+contains no telemetry, analytics or update checks. The only outbound network
+traffic is NTP. Anyone within radio range can join the setup access point while
+setup mode is open.
+
+This is version one. It may contain flaws. The software controls a lithium
+battery and a power management IC; modifications to the power path or shutdown
+logic are made at the user's own risk.
